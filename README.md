@@ -1,2 +1,2 @@
-DSToolboxCourse
+datasciencecoursera
 ===============
